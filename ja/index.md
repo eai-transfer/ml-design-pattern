@@ -8,11 +8,11 @@
 - Deployable Canary Model
 - Event-driven ML Microservices
 - Daisy Architecture
-- icroservice Architecture
+- Microservice Architecture
 - Data Lake
 - Kappa Architecture
 - Lambda Architecture
-- Discard PoCcode
+- [Discard PoC Code](./discard_poc_code/)
 - Parameter-Server Abstraction
 - Isolate Data Workload and Training Workload to Different Machines
 - ML Versioning
