@@ -5,7 +5,7 @@
 - Separation of Concerns and Modularization of ML Components
 - [Federated Learning](./federated_learning/)
 - [Secure Aggregation](./secure_aggregation/)
-- Deployable Canary Model
+- [Deployable Canary Model](./deployable_canary_model/)
 - Event-driven ML Microservices
 - Daisy Architecture
 - Microservice Architecture
