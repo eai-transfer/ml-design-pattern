@@ -8,7 +8,7 @@
 - [Deployable Canary Model](./deployable_canary_model/)
 - Event-driven ML Microservices
 - Daisy Architecture
-- Microservice Architecture
+- [Microservice Architecture](./microservice_architecture/)
 - Data Lake
 - Kappa Architecture
 - Lambda Architecture
