@@ -3,7 +3,7 @@
 ## パターン一覧 
 
 - Separation of Concerns and Modularization of ML Components
-- Federated Learning
+- [Federated Learning](./federated_learning/)
 - Secure Aggregation
 - Deployable Canary Model
 - Event-driven ML Microservices
