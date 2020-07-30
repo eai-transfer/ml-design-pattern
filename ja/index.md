@@ -9,7 +9,7 @@
 - Event-driven ML Microservices
 - Daisy Architecture
 - [Microservice Architecture](./microservice_architecture/)
-- Data Lake
+- [Data Lake](./data_lake/)
 - Kappa Architecture
 - Lambda Architecture
 - [Discard PoC Code](./discard_poc_code/)
