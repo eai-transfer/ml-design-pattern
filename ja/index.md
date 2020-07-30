@@ -10,8 +10,8 @@
 - Daisy Architecture
 - [Microservice Architecture](./microservice_architecture/)
 - [Data Lake](./data_lake/)
-- Kappa Architecture
-- Lambda Architecture
+- [Kappa Architecture](./kappa_architecture/)
+- [Lambda Architecture](./lambda_architecture/)
 - [Discard PoC Code](./discard_poc_code/)
 - Parameter-Server Abstraction
 - Isolate Data Workload and Training Workload to Different Machines
