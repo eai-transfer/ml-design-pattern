@@ -12,7 +12,7 @@
 - [Data Lake](./data_lake/)
 - [Kappa Architecture](./kappa_architecture/)
 - [Lambda Architecture](./lambda_architecture/)
-- [Discard PoC Code](./discard_poc_code/)
+- [Discard PoC Code (PoCのコードは捨てる)](./discard_poc_code/)
 - Parameter-Server Abstraction
 - Isolate Data Workload and Training Workload to Different Machines
 - ML Versioning
