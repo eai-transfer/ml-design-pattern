@@ -1,4 +1,4 @@
-# Discard PoC Code
+# Discard PoC Code (PoCのコードは破棄する)
 
 ## 概要
 
